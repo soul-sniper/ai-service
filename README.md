@@ -16,11 +16,11 @@ AI智能客服能够准确理解用户提出的问题，并给出符合语境的
 支持在线和电话两种咨询方式，覆盖更广泛的用户群体。
 
 ## 三、技术特点
+### 架构图：
+![AI客服架构图](https://github.com/user-attachments/assets/3891f99c-5781-494d-a630-de9ef9c6486f)
+
 ### 大语言模型
 基于[书生·浦语](https://github.com/InternLM/InternLM)![Alt](https://github.com/InternLM/InternLM/raw/main/assets/logo.svg) 大语言模型微调，结合企业知识库，能够准确理解用户意图，并给出高质量的答复。
-
-
-
 ### 语音文字互转
 结合语音文字互转技术，AI智能客服能够支持语音输入和输出，为用户提供更加准确的回答和服务。
 ### 智能学习
